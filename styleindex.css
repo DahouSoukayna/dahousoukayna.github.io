@@ -1,0 +1,24 @@
+
+
+
+#em1{
+  color: hotpink;
+  font-family: serif;
+}
+#travaux{
+  background-color: #5fdde5;
+  border: 1px solid black;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  width: 22%;
+}
+table{
+  background-color: #ff75a0;
+  border: 1px solid black;
+  border-collapse: collapse; /*single border*/
+  width: 70%;
+  align: center;
+  padding: inherit;
+  opacity: 80%;
+  font-family: fantasy;
+}
