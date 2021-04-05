@@ -1,0 +1,130 @@
+/*
+	Theme Name : cv with html & css;
+	DATE: Janvier 2021;
+	Description: CV Style;
+	Version : 1.0;
+	Author: Soukayna Dahou;
+	Author URL: ;
+*/
+
+body{
+    background-color: #c7ffd8;
+    color: black;
+    font-size: 100%;
+    font-family: 'Lora', serif;
+
+}
+
+img{
+  height: auto;
+  width: auto;
+  opacity: 1.0;
+}
+
+table{
+  background-color: #ff005c;
+  opacity: 80%;
+  font-family: fantasy;
+}
+
+h2{
+  color: #161d6f;
+}
+
+p{
+  font-family: 'Courgette', cursive;
+  padding: inherit;
+  padding-left: 10px;
+}
+a:link {
+  color: #ff75a0;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #54e346;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  background-color: #00917c;
+  color: hotpink;
+  text-decoration: underline;
+  opacity: 1.0;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+  text-decoration: underline;
+}
+
+#pic{
+  background-color: #f6f6f6;
+  font-style: italic;
+}
+
+.imgcircu{
+  border-radius: 100%;
+  opacity: 80%;
+  align: RIGHT;
+  height: 10%;
+  width: 10%;
+}
+
+ul li ul li{
+  background: #f6f6f6;
+  margin: 5px;
+  font-family: cursive;
+  font-style: italic;
+}
+
+#formation{
+  background-color: #c7ffd8;
+}
+
+#expe{
+  background-color: #c7ffd8;
+}
+
+#em1{
+  color: #ff005c;
+  font-weight: bolder;
+}
+#em2{
+  color: #98ded9;
+  font-size: bolder;
+  font-variant-position: super;
+}
+#contact{
+  background-color: #dbf6e9;
+  font-style: oblique;
+}
+
+button{
+  background-color: #f9c0c0;
+  border-color: #de4463 ;
+  text-emphasis: bold;
+  text-emphasis-color: white;
+}
+.button {
+background-color: #ff577f; /* Green */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+
+.footer{
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #161d6f;
+color: white;
+text-align: center;
+}
