@@ -22,3 +22,7 @@ table{
   opacity: 80%;
   font-family: fantasy;
 }
+
+tr{
+  border-bottom: 1px solid black;
+}
